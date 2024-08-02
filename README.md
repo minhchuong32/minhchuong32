@@ -51,7 +51,7 @@ E-Commerce Website, Grocery Mart. </samp>
                     height="30"
                     width="50"
             /></a>
-            <a href="https://linkedin.com/in/minh chương" target="blank"
+            <a href="https://www.linkedin.com/in/minh-ch%C6%B0%C6%A1ng-43b95830b/" target="blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="minh chương"
