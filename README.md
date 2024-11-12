@@ -3,7 +3,7 @@
 
 
 <h3 align="center" class="heading-element" dir="auto">
- <samp> Hi Guys 👋, I am  Minh Chuong, a Front-End Developer  ❤️  </samp>
+ <samp> Hi Guys 👋, I am Minh Chuong, and my dream is to become an SE❤️  </samp>
  </h3>
 
 <p align="center" dir="auto"> 
