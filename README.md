@@ -1,9 +1,9 @@
-<b> ChUonG </b>
+<b>  </b>
 <hr> </hr>
 
 
 <h3 align="center" class="heading-element" dir="auto">
- <samp> Hi Guys 👋, I am Minh Chuong, and my dream is to become an SE❤️  </samp>
+ <samp> Hi Guys 👋, I am Minh Chuong, and my dream is to become an SE ❤️  </samp>
  </h3>
 
 <p align="center" dir="auto"> 
