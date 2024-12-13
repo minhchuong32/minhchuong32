@@ -28,7 +28,7 @@ E-Commerce Website, Grocery Mart. </samp>
         <p align="left" dir="auto">
             <a
                 href="https://www.facebook.com/profile.php?id=100062402630954"
-                target="blank"
+                target="_blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                     alt="chương minh"
@@ -37,21 +37,21 @@ E-Commerce Website, Grocery Mart. </samp>
             /></a>
             <a
                 href="https://www.youtube.com/channel/UC3PLongL5cTtNhw35oOOMfA"
-                target="blank"
+                target="_blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                     alt="code cùng chương"
                     height="30"
                     width="50"
             /></a>
-            <a href="https://www.instagram.com/chuong_it/" target="blank"
+            <a href="https://www.instagram.com/chuong_it/" target="_blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="ass"
                     height="30"
                     width="50"
             /></a>
-            <a href="https://www.linkedin.com/in/minh-ch%C6%B0%C6%A1ng-43b95830b/" target="blank"
+            <a href="https://www.linkedin.com/in/minh-ch%C6%B0%C6%A1ng-43b95830b/" target="_blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="minh chương"
