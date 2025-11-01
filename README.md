@@ -44,14 +44,7 @@ E-Commerce Website, Grocery Mart. </samp>
                     height="30"
                     width="50"
             /></a>
-            <a href="https://www.instagram.com/chuong_it/" target="_blank"
-                ><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="ass"
-                    height="30"
-                    width="50"
-            /></a>
-            <a href="https://www.linkedin.com/in/minh-ch%C6%B0%C6%A1ng-43b95830b/" target="_blank"
+            <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/" target="_blank"
                 ><img
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="minh chương"
