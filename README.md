@@ -20,7 +20,6 @@
 - 🌱 <samp> I’m currently learning > HTML, CSS, JS, React, Sass. </samp>
 - 🔭   <samp> Some projects i'am working on >
 E-Commerce Website, Grocery Mart. </samp>
-- 🤝 <samp> I'm working with > [Kaiettt](https://github.com/Kaiettt) </samp>
 
 - 📫 <samp> My <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> **chuongminh3225@gmail.com**  </samp>
 
