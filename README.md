@@ -13,6 +13,13 @@
 </p>
 
  <samp> <h3 align="left">About me: </h3> </samp>
+ <h3 align="left">📄 Resume:</h3>
+
+<p>
+  <a href="https://drive.google.com/file/d/13aPkghrw4zFTYL19L4oagA5mUbCyY_Vq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 <img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="">
 
 
