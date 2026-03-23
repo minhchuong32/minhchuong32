@@ -23,7 +23,6 @@
 <img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="">
 
 
- <a href="https://docs.google.com/spreadsheets/d/1od07aJMlopxQ0oD2GC42bkYB2xzPnj4A/edit?gid=342629301#gid=342629301">  <samp> Free Coding Course </samp> </a>
 - 🌱 <samp> I’m currently learning > HTML, CSS, JS, React, Sass. </samp>
 - 🔭   <samp> Some projects i'am working on >
 E-Commerce Website, Grocery Mart. </samp>
