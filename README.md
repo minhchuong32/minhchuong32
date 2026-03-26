@@ -16,7 +16,7 @@
  <h3 align="left">📄 Resume:</h3>
 
 <p>
-  <a href="https://drive.google.com/file/d/13aPkghrw4zFTYL19L4oagA5mUbCyY_Vq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ldSER3_4Sp0v_yA7Y2bwDgsLhSNDYQgX/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_CV-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
