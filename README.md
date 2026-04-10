@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Ho Chi Minh City · +84 977 692 690 · <a href="mailto:chuongminh3225@gmail.com">chuongminh3225@gmail.com</a> · <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/">LinkedIn</a> · <a href="https://github.com/minhchuong32">GitHub</a>
+  Ho Chi Minh City · +84 977 692 690 · <a href="mailto:chuongminh3225@gmail.com">chuongminh3225@gmail.com</a> · <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/">LinkedIn</a> · <a href="https://github.com/minhchuong32">GitHub</a>
 </p>
 
 <p align="center">
@@ -25,6 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" height="30" />
+  </a>
   <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
   </a>
@@ -87,6 +90,7 @@
   </a>
 </p>
 
+<h3 align="left">My Contributions:</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhchuong32/minhchuong32/output/github-snake-dark.svg">
