@@ -1,4 +1,9 @@
-<h1 align="center">PHAM HAN MINH CHUONG</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3E6FF4&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Pham+Han+Minh+Chuong;Frontend+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
   Frontend Developer · Intern / Fresher
 </p>
@@ -10,9 +15,6 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/14yU0cZmwNNcwTjlYO7SHmezUz8VWhX80/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-    <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </p>
 
@@ -28,7 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+  <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" height="30" />
+  </a>
   <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
   </a>
@@ -105,3 +109,19 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhchuong32/minhchuong32/output/github-snake.svg">
   </picture>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <a href="https://github.com/minhchuong32">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhchuong32&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Chương's GitHub Stats" />
+  </a>
+  <a href="https://github.com/minhchuong32">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhchuong32&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Chương's Top Langs" />
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6FF4&center=true&vCenter=true&width=600&lines=Thanks+for+watching+my+profile!+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</h3>
