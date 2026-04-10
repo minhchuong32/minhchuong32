@@ -111,13 +111,12 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="center">
-  <a href="https://github.com/minhchuong32">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhchuong32&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Chương's GitHub Stats" />
-  </a>
-  <a href="https://github.com/minhchuong32">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhchuong32&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Chương's Top Langs" />
-  </a>
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhchuong32&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhchuong32&layout=compact&theme=react&hide_border=true&langs_count=6&cache_seconds=86400" />
 </p>
 
 <h3 align="center">
