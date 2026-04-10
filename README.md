@@ -11,6 +11,9 @@
   <a href="https://drive.google.com/file/d/14yU0cZmwNNcwTjlYO7SHmezUz8VWhX80/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
+    <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" height="30" />
+  </a>
 </p>
 
 <p align="center">
@@ -25,11 +28,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" height="30" />
-  </a>
+
   <a href="https://www.linkedin.com/in/pham-han-minh-chuong-43b95830b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="50" />
+  </a>
+  <a href="https://www.facebook.com/chuong.minh.580786/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="50" />
+  </a>
+  <a href="https://www.youtube.com/@chuwongpahm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="50" />
   </a>
   <a href="https://github.com/minhchuong32" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="50" />
