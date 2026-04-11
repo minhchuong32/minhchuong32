@@ -26,10 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <samp>Student at Ho Chi Minh City University of Technology and Education (HCMUTE)</samp>
-</p>
-
 ---
 
 <h3>👨‍💻 About me</h3>
