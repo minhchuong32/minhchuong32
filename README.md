@@ -17,12 +17,28 @@
 
 <!-- CV + Portfolio -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1oACFr4VtfFc9ILS2Hi4VL-QjsFWdoDtV/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/CV-Download-3E6FF4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a
+    href="https://drive.google.com/file/d/1oACFr4VtfFc9ILS2Hi4VL-QjsFWdoDtV/view?usp=drive_link"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/CV-Download-3E6FF4?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="Download CV"
+    />
   </a>
+
   &nbsp;
-  <a href="https://portfolio-git-main-chuongminhs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <a
+    href="https://portfolio-git-main-chuongminhs-projects.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
