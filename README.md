@@ -17,7 +17,7 @@
 
 <!-- CV + Portfolio -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nIGM7ZrmVAmwW8ZLN6CLFo720FCJoySg/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1oACFr4VtfFc9ILS2Hi4VL-QjsFWdoDtV/view?usp=drive_link">
     <img src="https://img.shields.io/badge/CV-Download-3E6FF4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   &nbsp;
